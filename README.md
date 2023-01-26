@@ -30,7 +30,7 @@ Step 6:
 Validate the HTML code. 
 
 Step 7:
-
+ 
 Publish the website in the given URL.
 
 ```
