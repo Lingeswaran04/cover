@@ -27,7 +27,7 @@ Validate the layout in various browsers.
 
 Step 6:
 
-Validate the HTML code.
+Validate the HTML code. 
 
 Step 7:
 
